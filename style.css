@@ -1,0 +1,24 @@
+    .btn {
+        display: inline-block;
+        padding: 10px 20px;
+        background-color: #28a745; /* Warna hijau */
+        color: white;
+        text-decoration: none;
+        border-radius: 5px;
+        font-size: 16px;
+    }
+    .btn:hover {
+        background-color: #218838;
+    }
+    
+    body{
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      text-align: center;
+    }
+    
+    h1{
+     background-color: #333;
+    color: white;
+    padding: 15px;
+    font-size: 24px;
+    }
